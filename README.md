@@ -2,10 +2,10 @@
 Web Scrapping using python libraries - Requests and BeautifulSoup
 
 # Getting Started
-Install our tools (preferably in a new virtualenv):
+Install our tools (preferably in a new virtualenv)::
 
-pip install beautifulsoup4
-pip install requests
+    pip install beautifulsoup4
+    pip install requests
 
 # What is in Nseindia folder
 Saving the live data of nse india option chains in csv files.
