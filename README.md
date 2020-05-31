@@ -4,8 +4,15 @@ Web Scrapping using python libraries - Requests and BeautifulSoup
 # Getting Started
 Install our tools (preferably in a new virtualenv)::
 
-    pip install beautifulsoup4
+    pip install bs4
     pip install requests
+
+# Web scrapping algorithm
+1. requests "the website url"
+2. finds all the the text
+3. cleans code from the text
+4. appends text to an array
+5. prints the array
 
 # What is in Nseindia folder
 Saving the live data of nse india option chains in csv files.
