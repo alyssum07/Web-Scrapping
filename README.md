@@ -6,6 +6,7 @@ Install our tools (preferably in a new virtualenv)::
 
     pip install bs4
     pip install requests
+    pip install lxml
 
 # Web scrapping algorithm
 1. requests "the website url"
